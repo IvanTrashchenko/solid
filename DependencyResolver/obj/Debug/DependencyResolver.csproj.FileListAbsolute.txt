@@ -1,0 +1,11 @@
+C:\Users\vanko\Documents\GitHub\solid\DependencyResolver\bin\Debug\DependencyResolver.dll
+C:\Users\vanko\Documents\GitHub\solid\DependencyResolver\bin\Debug\DependencyResolver.pdb
+C:\Users\vanko\Documents\GitHub\solid\DependencyResolver\bin\Debug\Ninject.dll
+C:\Users\vanko\Documents\GitHub\solid\DependencyResolver\bin\Debug\SolidWorkshop.dll
+C:\Users\vanko\Documents\GitHub\solid\DependencyResolver\bin\Debug\SolidWorkshop.pdb
+C:\Users\vanko\Documents\GitHub\solid\DependencyResolver\bin\Debug\Ninject.xml
+C:\Users\vanko\Documents\GitHub\solid\DependencyResolver\obj\Debug\DependencyResolver.csprojAssemblyReference.cache
+C:\Users\vanko\Documents\GitHub\solid\DependencyResolver\obj\Debug\DependencyResolver.csproj.CoreCompileInputs.cache
+C:\Users\vanko\Documents\GitHub\solid\DependencyResolver\obj\Debug\DependencyResolver.csproj.CopyComplete
+C:\Users\vanko\Documents\GitHub\solid\DependencyResolver\obj\Debug\DependencyResolver.dll
+C:\Users\vanko\Documents\GitHub\solid\DependencyResolver\obj\Debug\DependencyResolver.pdb
