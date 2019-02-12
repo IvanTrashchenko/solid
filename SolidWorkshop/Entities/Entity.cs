@@ -5,9 +5,11 @@ namespace SolidWorkshop.Entities
     /// <summary>
     /// Represents an entity.
     /// </summary>
-    public class Entity : IEntity
+    public class Entity
     {
-        /// <inheritdoc/>
+        /// <summary>
+        /// Gets or sets an entity identifier.
+        /// </summary>
         public int Id { get; set; }
 
         /// <summary>

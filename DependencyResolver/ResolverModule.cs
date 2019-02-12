@@ -15,7 +15,6 @@ namespace DependencyResolver
         {
             kernel.Bind<IService>().To<Service>();
             kernel.Bind<IRepository<Entity>>().To<Repository>();
-            kernel.Bind<IEntity>().To<Entity>();
             kernel.Bind<IDbConnection>().To<SqlConnection>()
                 .WithConstructorArgument("connectionString", DefaultConnection);
         }

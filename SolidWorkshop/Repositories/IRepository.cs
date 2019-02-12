@@ -1,13 +1,12 @@
 ﻿using System.Collections.Generic;
-using SolidWorkshop.Entities;
 
 namespace SolidWorkshop.Repositories
 {
     /// <summary>
     /// Service repository interface.
     /// </summary>
-    /// <typeparam name="TEntity">An <see cref="IEntity"/>.</typeparam>
-    public interface IRepository<TEntity> where TEntity : IEntity
+    /// <typeparam name="TEntity">An entity.</typeparam>
+    public interface IRepository<TEntity>
     {
         /// <summary>
         /// Gets all elements of repository.
